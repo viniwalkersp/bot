@@ -1,7 +1,0 @@
-discord.js
-discord-html-transcripts
-ms
-canvas
-dotenv
-mssql
-geoip-lite
